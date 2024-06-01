@@ -1,0 +1,23 @@
+.card{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border: 2px dotted green;
+    padding: 30px;
+    width: 60%;
+    margin: auto;
+}
+.card img{
+    width: 200px;
+    height: auto;
+    object-fit: contain;
+    border-radius: 100%;
+}
+.green-text{
+    color: green;
+}
+
+.red{
+    color: red;
+    font-size: 30px;
+}
